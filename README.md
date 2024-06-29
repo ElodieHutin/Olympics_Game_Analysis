@@ -5,4 +5,4 @@ Sous **SAS**, nous avons réalisé une étude de la base de données des **résu
 Nous avons généré le rapport pdf associé à partir du code SAS.  
 
 
-Projet réalisé en :<a href="https://www.sas.com/fr_fr/home.html"  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="35" height="45"/> </a> </p>
+Projet réalisé en :<a href="https://www.sas.com/fr_fr/home.html"  rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="35" height="15"/> </a> </p>
